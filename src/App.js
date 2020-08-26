@@ -1,7 +1,5 @@
 import React from 'react';
-import { useEffect, useState } from 'react';
 
-import Router from './Router';
 import icon from './assets/eicon.png';
 import './App.css';
 
@@ -9,7 +7,7 @@ function App() {
   return (
     <main>
       <div className="headerBar">
-        <img src={icon} />
+        <img alt="E" src={icon} />
         <div className="socialLinks">
           <a href="https://github.com/emmajam">Github</a> · <a href="http://medium.com/@emmajam">Medium</a> · <a href="https://www.linkedin.com/in/emma-jamieson-hoare-89b23298/">LinkedIn</a>
         </div>
