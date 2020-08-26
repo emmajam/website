@@ -12,23 +12,29 @@ main {
   min-height: 100vh;
   padding: 72px 0;
 }
+
 .headerBar {
   display: flex;
   align-items: center;
   flex-direction: row;
 }
+
 .socialLinks {
   padding-left: 10px;
 }
+
 h1 {
   font-size: 45px;
 }
+
 h2 {
   margin-bottom: 0px;
 }
+
 p {
   font-size: 16px;
 }
+
 a {
   border-bottom: 1px solid white;
   color: #ff8800;
@@ -38,4 +44,41 @@ a {
 }
 a:hover {
   border-bottom: 0.5px solid;
+}
+
+.easterEgg {
+  display: flex;
+	justify-content: space-between;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	height: 100vh;
+}
+
+.Snowflake {
+	display: inline-block;
+	width: 0.1%;
+	color: darkslategrey;
+	opacity: 0;
+	font-size: 120px;
+	margin: 0;
+	padding: 0;
+	animation: fall 16s linear infinite;
+}
+
+@keyframes fall {
+	0% {
+		opacity: 0;
+	}
+	3% {
+		opacity: 0.9;
+	}
+
+	90% {
+		opacity: 0.9;
+	}
+	100% {
+		transform: translate(0, 97vh);
+		opacity: 0;
+	}
 }

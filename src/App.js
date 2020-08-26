@@ -1,6 +1,7 @@
 import React from 'react';
 import { useEffect, useState } from 'react';
 
+import Router from './Router';
 import icon from './assets/eicon.png';
 import './App.css';
 
