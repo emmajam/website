@@ -2,12 +2,7 @@ import React from 'react';
 
 import './App.css';
 
-type SnowFlake = {
-  id: number,
-  style: {},
-}
-
-function Snowflake(props: SnowFlake) {
+function Snowflake(props) {
   return(
     <p className='Snowflake' id={`item${props.id}`} style={props.style}>
       *
