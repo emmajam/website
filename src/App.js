@@ -16,7 +16,7 @@ function App() {
       <h1>Emma Jamieson-Hoare</h1>
       <h2>Front End Engineer</h2>
       <p>
-        Currently working at Skyscanner as a Senior Software Engineer, on their award winning mobile apps.
+        Currently working at Skyscanner on their award winning mobile apps.
       </p>
       <h2>Experience</h2>
       <ul>
