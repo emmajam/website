@@ -23,7 +23,6 @@ function App() {
         <li><a href="https://www.skyscanner.net">Skyscanner</a> (July 2018 - present)</li>
         <li><a href="https://www.localz.com/">Localz</a> (August 2016 - July 2018)</li>
       </ul>
-      <br />
     </main>
   );
 }
