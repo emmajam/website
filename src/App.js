@@ -15,11 +15,12 @@ function App() {
       <h1>Emma Jamieson-Hoare</h1>
       <h2>Front End Engineer</h2>
       <p>
-        Currently working at Skyscanner on their award winning mobile apps.
+        Currently working at Paxos on their post-trade workflow automation and settlement.
       </p>
       <h2>Experience</h2>
       <ul>
-        <li><a href="https://www.skyscanner.net">Skyscanner</a> (July 2018 - present)</li>
+        <li><a href="https://www.paxos.com">Paxos</a> (October 2020 - present)</li>
+        <li><a href="https://www.skyscanner.net">Skyscanner</a> (July 2018 - October 2020)</li>
         <li><a href="https://www.localz.com/">Localz</a> (August 2016 - July 2018)</li>
       </ul>
     </main>
