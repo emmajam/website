@@ -13,13 +13,14 @@ function App() {
         </div>
       </div>
       <h1>Emma Jamieson-Hoare</h1>
-      <h2>Front End Engineer</h2>
+      <h2>Engineering Lead</h2>
       <p>
-        Currently working at Paxos on their post-trade workflow automation and settlement.
+        Currently working at Wise in the Send Squad, on all things recipients and personal identifiers.
       </p>
       <h2>Experience</h2>
       <ul>
-        <li><a href="https://www.paxos.com">Paxos</a> (October 2020 - present)</li>
+        <li><a href="https://www.wise.com">Wise</a> (November 2022 - present)</li>
+        <li><a href="https://www.paxos.com">Paxos</a> (October 2020 - November 2022)</li>
         <li><a href="https://www.skyscanner.net">Skyscanner</a> (July 2018 - October 2020)</li>
         <li><a href="https://www.localz.com/">Localz</a> (August 2016 - July 2018)</li>
       </ul>
